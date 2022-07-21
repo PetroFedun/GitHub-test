@@ -1,6 +1,7 @@
 let value = prompt('Whats the "официальное название" JavaScript?', '');
+
 if (value == 'ECMAScript' ) {
-alert('Верно!');
+  alert('Верно!');
 } else {
-alert('Не знаєте?ECMAScript!');
+  alert('Не знаєте?ECMAScript!');
 }
